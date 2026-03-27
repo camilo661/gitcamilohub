@@ -1,0 +1,1 @@
+"""Factories for preconfigured objects."""
